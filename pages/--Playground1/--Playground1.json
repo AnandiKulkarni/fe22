@@ -29,8 +29,9 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "--Playground1_fetchAstronauts",
+              "id": "Page 1_TC1.myFun2",
               "name": "fetchAstronauts",
+              "collectionId": "Page 1_TC1",
               "confirmBeforeExecute": false,
               "pluginType": "API",
               "jsonPathKeys": [],
@@ -39,8 +40,9 @@
           ],
           [
             {
-              "id": "--Playground1_filteredAstronauts",
+              "id": "Page 1_TC1.myFun2",
               "name": "filteredAstronauts",
+              "collectionId": "Page 1_TC1",
               "confirmBeforeExecute": false,
               "pluginType": "API",
               "jsonPathKeys": [

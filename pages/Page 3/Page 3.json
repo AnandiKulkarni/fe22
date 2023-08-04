@@ -28,9 +28,9 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Page 3_TC5.storeLocation",
+              "id": "Page 1_TC1.myFun2",
               "name": "TC5.storeLocation",
-              "collectionId": "Page 3_TC5",
+              "collectionId": "Page 1_TC1",
               "confirmBeforeExecute": false,
               "pluginType": "JS",
               "jsonPathKeys": [

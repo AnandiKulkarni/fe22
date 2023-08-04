@@ -28,8 +28,9 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Page 2_Api1",
+              "id": "Page 1_TC1.myFun2",
               "name": "Api1",
+              "collectionId": "Page 1_TC1",
               "confirmBeforeExecute": false,
               "pluginType": "API",
               "jsonPathKeys": [],
@@ -38,9 +39,9 @@
           ],
           [
             {
-              "id": "Page 2_TC4_main.both",
+              "id": "Page 1_TC1.myFun2",
               "name": "TC4_main.both",
-              "collectionId": "Page 2_TC4_main",
+              "collectionId": "Page 1_TC1",
               "confirmBeforeExecute": false,
               "pluginType": "JS",
               "jsonPathKeys": [

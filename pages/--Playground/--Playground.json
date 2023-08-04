@@ -29,9 +29,9 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "--Playground_JSObject14.myFun1",
+              "id": "Page 1_TC1.myFun2",
               "name": "JSObject14.myFun1",
-              "collectionId": "--Playground_JSObject14",
+              "collectionId": "Page 1_TC1",
               "clientSideExecution": true,
               "confirmBeforeExecute": false,
               "pluginType": "JS",
@@ -41,9 +41,9 @@
               "timeoutInMillisecond": 10000
             },
             {
-              "id": "--Playground_JSObject14.myFun2",
+              "id": "Page 1_TC1.myFun2",
               "name": "JSObject14.myFun2",
-              "collectionId": "--Playground_JSObject14",
+              "collectionId": "Page 1_TC1",
               "clientSideExecution": true,
               "confirmBeforeExecute": false,
               "pluginType": "JS",
